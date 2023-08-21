@@ -1,4 +1,4 @@
-![video-chat](https://github.com/crwaskar/videochat/assets/104088193/72106468-2e59-4a21-9504-ecfba08f8507)# Video-chat-v1
+# Video-chat-v1
 
 Video-chat-v1 is a video chat app that makes it easy to groups up with people you want to meet
 
@@ -17,9 +17,6 @@ This app is build using NodeJS, Socket.io, and Peerjs(WebRTC)
 3. Open the command prompt from your project directory and run the command `npm start`.
 4. Go to your browser and type `http://127.0.0.1:3030/` in the address bar.
 5. Hurray! That's it.
-
-6. 
-
 
 
 
